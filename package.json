@@ -1,0 +1,19 @@
+{
+  "name": "xbd-view",
+  "version": "1.0.1",
+  "description": "common ui library produced by Xbd Ltd.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zore-u/xbd-view.git"
+  },
+  "keywords": [
+    "UI",
+    "Widget"
+  ],
+  "author": "xbd team",
+  "license": "ISC"
+}
