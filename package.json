@@ -1,6 +1,6 @@
 {
   "name": "xbd-view",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "common ui library produced by Xbd Ltd.",
   "main": "main.js",
   "scripts": {
